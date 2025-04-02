@@ -48,7 +48,7 @@ showMore = true
 showMoreDest = "/posts"
 [homepage.profile]
 # [Optional] Displayed at the top of your homepage.
-headline = "😎 Not all those who wander are lost."
+headline = "Where hatred is spoken, love may take root."
 # [Optional] Path to the profile image relative to assets/ folder. Minimum size: 200x200px.
 image = "favicon.svg"
 # Image position.
@@ -100,7 +100,7 @@ cardView = true
 # Whether to group articles by year.
 groupByYear = true
 # Whether to display breadcrumbs
-showBreadcrumbs = false
+showBreadcrumbs = true
 # Whether to display pages as a card
 cardView = true
 # Whether to display RSS link

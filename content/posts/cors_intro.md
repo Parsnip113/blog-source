@@ -14,12 +14,11 @@ showToC: true
 openToC: false
 showComments: true
 showHeadingAnchors: true
+summary: "在现代Web开发中，跨域请求（Cross-Origin Requests）已成为不可避免的一部分。为了确保Web应用的安全性和灵活性，**跨域资源共享（CORS，Cross-Origin Resource Sharing）** 应运而生。本文将深入探讨CORS的概念、工作原理、配置方法以及常见问题，帮助开发者更好地理解和应用这一重要技术。"
 
 categories: ["技术"]
 tags: ["Web", "HTTP"]
 ---
-在现代Web开发中，跨域请求（Cross-Origin Requests）已成为不可避免的一部分。为了确保Web应用的安全性和灵活性，**跨域资源共享（CORS，Cross-Origin Resource Sharing）** 应运而生。本文将深入探讨CORS的概念、工作原理、配置方法以及常见问题，帮助开发者更好地理解和应用这一重要技术。
-
 ## 什么是CORS？
 
 **跨域资源共享（CORS）** 是一种基于HTTP头的机制，允许服务器指示浏览器允许哪些来源（域、协议和端口）可以访问其资源。简单来说，CORS解决了浏览器的同源策略限制，允许在不同源之间进行安全的资源共享。
